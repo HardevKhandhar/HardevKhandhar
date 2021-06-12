@@ -17,8 +17,8 @@ Ever since I was young, I have always enjoyed working on computers & experimenti
 
 <p align="center">
   <a href="https://github.com/HardevKhandhar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HardevKhandhar&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/ width="480em">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardevKhandhar&theme=algolia&hide_border=true&langs_count=9&layout=compact"/ width="480em">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HardevKhandhar&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/ width="390em">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardevKhandhar&theme=algolia&hide_border=true&langs_count=9&layout=compact"/ width="390em">
   </a>
 </p>
 
