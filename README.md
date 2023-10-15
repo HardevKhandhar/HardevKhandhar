@@ -8,10 +8,10 @@
 
 Ever since I was young, I have always enjoyed working on computers & experimenting with different technologies. Now with each passing year, my interest has grown manifolds. 
 
-* Dedicated & hard-working, adaptive individual with quick learning abilities
-* Bringing forth excellent leadership skills, a self-starter attitude & outstanding work ethic 
-* Highly determined to excel through all endeavours, taking up challenges head-on & putting in the best efforts
-* Proactive problem solver with excellent communication skills looking for opportunities to learn, innovate & evolve continuously
+* Dedicated & hard-working, adaptive individual with quick learning abilities.
+* Bringing forth excellent leadership skills, a self-starter attitude & outstanding work ethic.
+* Highly determined to excel through all endeavours, taking up challenges head-on & putting in the best efforts.
+* Proactive problem solver with excellent communication skills looking for opportunities to learn, innovate & evolve continuously.
 
 ### GitHub Analytics
 
