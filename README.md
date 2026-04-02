@@ -57,22 +57,19 @@ I work on large-scale **Big Data infrastructure** — specializing in Hadoop pla
 
 ---
 
-## Trophies
+## Currently
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HardevKhandhar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="trophies"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HardevKhandhar/HardevKhandhar/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</p>
+| What I build | What I explore |
+|---|---|
+| Hadoop infrastructure & platform reliability at enterprise scale | Distributed systems design patterns |
+| Observability pipelines for Big Data workloads | Data lakehouse architectures |
+| Internal tooling for Big Data platform teams | Stream processing & real-time pipelines |
+| Scalable storage & compute on HDFS | Infrastructure-as-code for data platforms |
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HardevKhandhar&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=100&section=footer" width="100%"/>
