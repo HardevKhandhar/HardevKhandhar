@@ -57,19 +57,18 @@ I work on large-scale **Big Data infrastructure** — specializing in Hadoop pla
 
 ---
 
-## GitHub Stats
+## Trophies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HardevKhandhar&count_private=true&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" width="395em"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardevKhandhar&theme=tokyonight&hide_border=true&langs_count=8&layout=compact" width="395em"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HardevKhandhar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="trophies"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HardevKhandhar&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
+---
+
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardevKhandhar&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HardevKhandhar/HardevKhandhar/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </p>
 
 ---
