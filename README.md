@@ -1,75 +1,79 @@
 <div align="center">
-  <h2> 
-    Hi, there! I am Hardev Khandhar <img src="https://github.com/HardevKhandhar/HardevKhandhar/blob/main/hi.gif" width="30px">
-  </h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hardev+Khandhar;SDE+2+%40+Workday+%7C+Vancouver%2C+BC;Big+Data+%26+Platform+Engineering;Building+Reliable+Distributed+Systems" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardev-khandhar-b52289176/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HardevKhandhar)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardev.khandhar09@gmail.com)
+
 </div>
 
-### About Me!
+---
 
-Ever since I was young, I have always enjoyed working on computers & experimenting with different technologies. Now with each passing year, my interest has grown manifolds. 
+## About Me
 
-* Dedicated & hard-working, adaptive individual with quick learning abilities.
-* Bringing forth excellent leadership skills, a self-starter attitude & outstanding work ethic.
-* Highly determined to excel through all endeavours, taking up challenges head-on & putting in the best efforts.
-* Proactive problem solver with excellent communication skills looking for opportunities to learn, innovate & evolve continuously.
+**Software Development Engineer II** at **Workday**, based in **Vancouver, BC, Canada**.
 
-### GitHub Analytics
+I work on large-scale **Big Data infrastructure** — specializing in Hadoop platform engineering, observability, and reliability for distributed data systems at enterprise scale.
+
+- Designing and scaling Big Data platforms for large enterprise workloads
+- Focused on infrastructure observability, reliability engineering, and platform stability
+- Passionate about distributed systems and pushing the limits of data engineering at scale
+
+---
+
+## Tech Stack
+
+**Big Data & Data Engineering**
+
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Platform & Infrastructure**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Observability & Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/HardevKhandhar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HardevKhandhar&count_private=true&theme=algolia&hide_border=true&show_icons=true&include_all_commits=true"/ width="395em">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardevKhandhar&theme=algolia&hide_border=true&langs_count=9&layout=compact"/ width="395em">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HardevKhandhar&count_private=true&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" width="395em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardevKhandhar&theme=tokyonight&hide_border=true&langs_count=8&layout=compact" width="395em"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=HardevKhandhar&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HardevKhandhar&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
-<br>
+
 <p align="center">
-    <a href="https://github.com/HardevKhandhar/"><img src="https://komarev.com/ghpvc/?username=HardevKhandhar&color=blueviolet&style=flat&label=Profile+Views"/></a>
-    <a href="https://github.com/HardevKhandhar/"><img src="https://img.shields.io/github/followers/HardevKhandhar?style=flat&color=blue&label=GitHub%20Followers%20"/></a>
-    <a href="https://github.com/HardevKhandhar//"><img src="https://img.shields.io/github/last-commit/HardevKhandhar/HardevKhandhar?style=flat&color=brightgreen&label=Last%20Updated%20"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardevKhandhar&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
 </p>
 
-### Keep in Touch!
-<div>
-<p>
-  <a href="https://www.linkedin.com/in/hardev-khandhar-b52289176/">
-    <img align="left" alt="Hardev's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  
-  <a href="https://github.com/HardevKhandhar">
-    <img align="left" alt="Hardev's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  
-  <a href="mailto:hardev.khandhar09@gmail.com">
-    <img align="left" alt="Hardev's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-  
-  <a href="https://twitter.com/HardevKhandhar">
-    <img align="left" alt="Hardev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
+---
 
-  <!--
-  <a href="https://www.instagram.com//">
-    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  -->
-
-  <!--
-  <a href="https://www.facebook.com/">
-    <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-  -->
-
-  <!--
-  <a href="https://www.hackerrank.com/">
-    <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-  </a>
-  -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HardevKhandhar&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
 </p>
-</div>
-<br><br>
-
-### Thank You! :heart:
