@@ -14,13 +14,11 @@
 
 ## About Me
 
-**Software Development Engineer II** at **Workday**, based in **Vancouver, BC, Canada**.
+**Software Development Engineer II** at **[Workday](https://www.workday.com)**, based in **Vancouver, BC, Canada**.
 
-I work on large-scale **Big Data infrastructure** — specializing in Hadoop platform engineering, observability, and reliability for distributed data systems at enterprise scale.
+I build production-grade automation for large-scale **Big Data infrastructure** — the systems behind distributed storage and compute at enterprise scale.
 
-- Designing and scaling Big Data platforms for large enterprise workloads
-- Focused on infrastructure observability, reliability engineering, and platform stability
-- Passionate about distributed systems and pushing the limits of data engineering at scale
+My work spans fleet-wide lifecycle engineering (OS/kernel rollouts, controlled maintenance, end-to-end upgrade workflows), hardening internal services and automation pipelines with config-driven, GitOps-style workflows, and improving observability through SLA/SLO-oriented metrics and infrastructure-as-code backed alerting. The goal is always the same: make massive infrastructure changes boring, measurable, and reversible.
 
 ---
 
