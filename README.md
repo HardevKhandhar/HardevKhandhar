@@ -86,16 +86,6 @@
 
 ---
 
-## LeetCode
-
-<div align="center">
-
-[![Hardev's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=HardevKhandhar&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-</div>
-
----
-
 ## Galaxy Profile
 
 <div align="center">
