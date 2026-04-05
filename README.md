@@ -76,7 +76,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HardevKhandhar&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=HardevKhandhar&color=58A6FF&style=plastic&label=Profile+Views&color=blueviolet"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,100:7c3aed&height=100&section=footer" width="100%"/>
