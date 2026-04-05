@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hardev+Khandhar;SDE+2+%40+Workday+%7C+Vancouver%2C+BC;Big+Data+%26+Platform+Engineering;Building+Reliable+Distributed+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hardev+Khandhar;SDE+2+%40+Workday+%7C+Vancouver%2C+BC%2C+Canada;Big+Data+%26+Platform+Engineering;Building+Reliable+Distributed+Systems" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardev-khandhar-b52289176/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardev-khandhar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/HardevKhandhar)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:hardev.khandhar09@gmail.com)
 
@@ -28,7 +28,7 @@
 
 ## Tech Stack
 
-**Big Data & Data Engineering**
+**Big Data & Distributed Engineering**
 
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -104,18 +104,6 @@
 
 <div align="center">
   <img src="assets/generated/galaxy-header.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="assets/generated/stats-card.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="assets/generated/tech-stack.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="assets/generated/projects-constellation.svg" width="100%"/>
 </div>
 
 ---
