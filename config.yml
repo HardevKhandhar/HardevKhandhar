@@ -1,0 +1,75 @@
+username: HardevKhandhar
+
+profile:
+  name: "Hardev Khandhar"
+  tagline: "SDE 2 @ Workday | Big Data Infrastructure & Platform Engineering"
+  company: "Workday"
+  location: "Vancouver, BC, Canada"
+
+social:
+  email: "hardev.khandhar09@gmail.com"
+  linkedin: "https://www.linkedin.com/in/hardev-khandhar-b52289176/"
+
+galaxy_arms:
+  - name: "Big Data"
+    color: "synapse_cyan"
+    items:
+      - "Hadoop"
+      - "Spark"
+      - "Kafka"
+      - "Hive"
+      - "HDFS"
+      - "Flink"
+      - "Trino"
+      - "HBase"
+      - "Airflow"
+      - "Zookeeper"
+  - name: "Platform"
+    color: "dendrite_violet"
+    items:
+      - "Kubernetes"
+      - "Docker"
+      - "Terraform"
+      - "Ansible"
+      - "Helm"
+      - "Linux"
+      - "Chef"
+  - name: "Observability"
+    color: "axon_amber"
+    items:
+      - "Prometheus"
+      - "Grafana"
+      - "Elasticsearch"
+      - "OpenTelemetry"
+      - "Python"
+      - "Go"
+      - "Java"
+      - "Scala"
+
+projects:
+  - repo: "HardevKhandhar/HardevKhandhar"
+    arm: 0
+    description: "GitHub profile repository."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#66CCFF"
+  dendrite_violet: "#7c3aed"
+  axon_amber: "#E6526F"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude: []
+  max_display: 8
