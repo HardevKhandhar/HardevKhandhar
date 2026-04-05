@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,100:7c3aed&height=100&section=header" width="100%"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hardev+Khandhar;SDE+2+%40+Workday+%7C+Vancouver%2C+BC;Big+Data+%26+Platform+Engineering;Building+Reliable+Distributed+Systems" alt="Typing SVG" />
@@ -16,9 +18,11 @@
 
 **Software Development Engineer II** at **[Workday](https://www.workday.com)**, based in **Vancouver, BC, Canada**.
 
-I build production-grade automation for large-scale **Big Data infrastructure** — the systems behind distributed storage and compute at enterprise scale.
-
-My work spans fleet-wide lifecycle engineering (OS/kernel rollouts, controlled maintenance, end-to-end upgrade workflows), hardening internal services and automation pipelines with config-driven, GitOps-style workflows, and improving observability through SLA/SLO-oriented metrics and infrastructure-as-code backed alerting. The goal is always the same: make massive infrastructure changes boring, measurable, and reversible.
+- Building production-grade automation for large-scale **Big Data infrastructure** — the systems behind distributed storage and compute at enterprise scale.
+- Fleet-wide lifecycle engineering: OS/kernel rollouts, controlled maintenance, and end-to-end upgrade workflows.
+- Hardening internal services and automation pipelines with config-driven, GitOps-style workflows.
+- Improving observability through SLA/SLO-oriented metrics and infrastructure-as-code backed alerting.
+- Goal: make massive infrastructure changes boring, measurable, and reversible.
 
 ---
 
@@ -66,8 +70,13 @@ My work spans fleet-wide lifecycle engineering (OS/kernel rollouts, controlled m
 
 ---
 
+> [!IMPORTANT]
+> [My Resume](https://your-drive-link-here)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HardevKhandhar&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,100:7c3aed&height=100&section=footer" width="100%"/>
