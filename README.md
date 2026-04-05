@@ -18,11 +18,14 @@
 
 **Software Development Engineer II** at **[Workday](https://www.workday.com)**, based in **Vancouver, BC, Canada**.
 
-- Building production-grade automation for large-scale **Big Data Infrastructure** — the systems behind distributed storage and compute at enterprise scale.
-- Fleet-wide lifecycle engineering: OS/kernel rollouts, controlled maintenance, and end-to-end upgrade workflows.
-- Hardening internal services and automation pipelines with config-driven, GitOps-style workflows.
-- Improving observability through SLA/SLO-oriented metrics and infrastructure-as-code backed alerting.
-- Goal: make massive infrastructure changes boring, measurable, and reversible.
+I build the automation that keeps enterprise-scale Big Data infrastructure running reliably and at fleet-wide scope. My work spans distributed storage and compute systems that production workloads across the organization depend on.
+
+What I focus on:
+- Fleet lifecycle engineering: OS/kernel rollouts, controlled maintenance windows, and end-to-end upgrade workflows across thousands of nodes.
+- Resilient automation pipelines: Config-driven, GitOps-style systems that make infrastructure changes auditable, repeatable, and safe to roll back.
+- Observability and reliability: SLA/SLO-oriented metrics and infrastructure-as-code backed alerting that gives teams confidence in what they ship.
+
+> _North Star: "Infrastructure that scales without friction, fails without surprise, and recovers without intervention."_
 
 ---
 
@@ -100,7 +103,7 @@
 
 ---
 
-## Galaxy Profile
+## Developer Profile
 
 <div align="center">
   <img src="assets/generated/galaxy-header.svg" width="100%"/>
